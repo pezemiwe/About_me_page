@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Url: [https://pezemiwe.github.io/About_me_page/](https://pezemiwe.github.io/About_me_page/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
